@@ -16,7 +16,7 @@ function greeting_menu() {
     return $items;
 }
 function say_hello() {
-    return '<p>Hello my dear friend!</p>';
+    return '<p>How art thou, dear user?</p>';
 }
 function say_farewell() {
     return '<p>Fare thee well my dear friend!</p>';
