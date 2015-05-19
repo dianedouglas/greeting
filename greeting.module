@@ -19,7 +19,7 @@ function say_hello() {
     return '<p>How art thou, dear user?</p>';
 }
 function say_farewell() {
-    return '<p>Fare thee well my dear friend!</p>';
+    return '<p>Bye Bye!</p>';
 }
 function greeting_user_login(){
     $_GET['destination'] = 'hello_friend';
